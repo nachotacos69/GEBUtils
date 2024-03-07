@@ -3,7 +3,8 @@
 ***Original from [nyirsh](https://github.com/nyirsh/GEBUtils)***
 
 - i will probably continue this sooner or later but for now i'll archive this here
-Notes:
+
+# Notes:
 - from my testings, the tool is pretty okay-ish when modding the dlc and running it
   through emulators but sadly... it breaks crashes on psp
 - Possible chances that you can get
