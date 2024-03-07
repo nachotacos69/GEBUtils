@@ -1,5 +1,15 @@
 # God Eater Burst Utils
 
-Not gonna lie, this project is very old and I don't think it will be any useful for new GEB games but... who knows?
-Maybe one day I'll come back to the scene and I realize the file structures isn't changed that much and I can simply re-adapt this stuff.
-I'm uploading it on GitHub after such a long time just to make sure I don't lose it if I swap drives or something like that. Just don't judge it, I was 16 y/o when I wrote this and it serves no real purpose as of today
+***Original from [nyirsh](https://github.com/nyirsh/GEBUtils)***
+
+- i will probably continue this sooner or later but for now i'll archive this here
+Notes:
+- from my testings, the tool is pretty okay-ish when modding the dlc and running it
+  through emulators but sadly... it breaks crashes on psp
+- Possible chances that you can get
+  `Data pack is corrupted. Game cannot continue.
+   Returning to title screen.` since the tool is hella bugged?, but who knows
+- I'll compile everything so everyone can use it neatly i guess..
+
+
+`By: Yamato Nagasaki`
