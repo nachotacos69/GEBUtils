@@ -14,3 +14,4 @@
 
 
 `By: Yamato Nagasaki`
+*UPDATE: MAR, 19, 2024 - ***Executables release****
