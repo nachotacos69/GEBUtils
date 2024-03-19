@@ -3,6 +3,7 @@
 ***Original from [nyirsh](https://github.com/nyirsh/GEBUtils)***
 
 - i will probably continue this sooner or later but for now i'll archive this here
+- Second of all, i dont know how those plugins work
 
 # Notes:
 - from my testings, the tool is pretty okay-ish when modding the dlc and running it
