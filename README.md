@@ -1,3 +1,7 @@
+#[ARCHIVED] - MOVED into a new one
+https://github.com/nachotacos69/WikiEater
+
+
 # God Eater Burst Utils
 
 ***Original from [nyirsh](https://github.com/nyirsh/GEBUtils)***
